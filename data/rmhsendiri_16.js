@@ -1,0 +1,1 @@
+var json_rmhsendiri_16 = {"type":"FeatureCollection","name":"rmhsendiri_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"ORIG_FID":"0","POINT_X":97.06159,"POINT_Y":5.13484},"geometry":{"type":"Point","coordinates":[97.06159462062152,5.134835684259771]}}]}
